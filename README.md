@@ -9,7 +9,7 @@ Android provides you an application framework to innovate apps and games, and yo
   - [1:1 Android Help from Proven Experts](https://www.codementor.io/android-experts)
   - [Monthly Mentorship](https://www.codementor.io/monthly)
 
-## Platform for Python Tutorials
+## Platform for Android Tutorials
   - [Tutorialspoint](http://www.tutorialspoint.com/android/index.htm)
   - [Codelearn.org](http://www.codelearn.org/android-tutorial#tutorial)
   - [Buckys Room](https://buckysroom.org/videos.php?cat=6&video=16769)
