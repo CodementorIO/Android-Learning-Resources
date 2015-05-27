@@ -1,7 +1,7 @@
 # Awesome-Android
 Android provides you an application framework to innovate apps and games, and you will also pick up Java while learning Android development. With the help of these useful resources online, it is way easier for you to enter the world of Android Development. Here are some websites you might want to take a look!
 
-## Best Collection of Python Tutorials
+## Best Collection of Android Tutorials
   - Android Learning Guide-[Learn Android Online](https://www.codementor.io/learn-android-development)
   - Tutorial-[Android Tutorials for Beginners and Programmers](https://www.codementor.io/android/tutorial)
 
