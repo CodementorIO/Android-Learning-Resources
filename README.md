@@ -54,8 +54,8 @@ Android provides you an application framework to innovate apps and games, and yo
 ## Videos
   - [Live-Coding Android UI: Layouts and Animations w/Linton Ye of Mirror for Android Studio](https://www.codementor.io/officehours/1461350922/live-coding-android-ui-layouts-and-animations-w-linton-ye-of-mirror-for-android-studio)
   - [Debugging with Android: Tips and Q&A](https://www.codementor.io/officehours/4529680413/debugging-with-android-tips-and-q-a)
-  - [Intro to Wearable Development: Building Your First Pebble App in 1 Hour](https://www.codementor.io/officehours/5234904631/intro-to-wearable-development-building-your-first-wearable-app-in-1-hour)
-
+  - [Intro to Weatrable Development: Building Your First Pebble App in 1 Hour](https://www.codementor.io/officehours/5234904631/intro-to-wearable-development-building-your-first-wearable-app-in-1-hour)
+  - [The new boston 200 android video tutorials](https://www.youtube.com/playlist?list=PL023BC9408BAFEC0C)
 
 
 
@@ -75,7 +75,8 @@ Android provides you an application framework to innovate apps and games, and yo
   - [Android Studio](https://developer.android.com/sdk/installing/studio.html)
   - [Basic4android](http://www.basic4ppc.com/)
   - [Andy](http://andyroid.net/)
-  - [Robotium](https://code.google.com/p/robotium/)
+  - [Genymotion - Fast and Easy emulation](https://www.genymotion.com/)
+  - [Robotium](https://github.com/robotiumtech/robotium)
   - [MonkeyRunner](http://developer.android.com/tools/help/monkeyrunner_concepts.html)
   - [Remote Debugging on Android with Chrome](https://www.codementor.io/android-er.blogspot.com)
   - [Test Flight](http://testflightapp.com/)
