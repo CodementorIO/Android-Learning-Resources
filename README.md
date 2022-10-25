@@ -67,7 +67,8 @@ Android provides you an application framework to innovate apps and games, and yo
   - [Edureka](http://www.edureka.co/about-android-development)
   - [Udacity](https://www.udacity.com/courses#!/android)
   - [Treehouse](http://teamtreehouse.com/tracks/android-development)
-  - [Lynda.com](http://www.lynda.com/Android-training-tutorials/947-0.html)
+  - [Lynda.com](http://www.lynda.com/Android-training-tutorials/947-0.html).
+  - [Scaler Topics](https://www.scaler.com/topics/android-os/)
   - [Pluralsight](http://www.pluralsight.com/tag/android)
 
 
